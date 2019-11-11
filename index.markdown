@@ -28,4 +28,4 @@ Please feel free to contact me if you want more information about my work.
 
 Scrivetemi per avere maggiori informazioni sul mio lavoro.
 
-**<code>📮 </code></strong>angela.brisotto@gmail.com
+<code>📮 </code></strong>angela.brisotto@gmail.com
