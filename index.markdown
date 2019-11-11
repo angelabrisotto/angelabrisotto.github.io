@@ -1,5 +1,3 @@
-![GitHub Logo](/images/ian-williams-rKE6rXOl14U-unsplash.jpg)
-Format: ![Alt Text](url)
 
 # ANGELA BRISOTTO
 
