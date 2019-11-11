@@ -13,5 +13,5 @@ Il mio nome è Angela Brisotto e sono una scrittrice, traduttrice e attrice ital
 
 
 
-*   _21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis_, Università Ca’ Foscari Venezia, 2018.    \
+*   _21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis_, Università Ca’ Foscari Venezia, 2018.    
 [http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
