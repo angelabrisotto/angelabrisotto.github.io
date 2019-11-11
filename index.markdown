@@ -22,3 +22,10 @@ Il mio nome è Angela Brisotto e sono una scrittrice, traduttrice e attrice ital
 
 ![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/68620287-753d9b80-04cd-11ea-9664-9406fffa4043.jpg)
 
+**DROP ME A LINE** | **PER CONTATTARMI**
+
+Please feel free to contact me if you want more information about my work.  
+
+Scrivetemi per avere maggiori informazioni sul mio lavoro.
+
+angela.brisotto@gmail.com
