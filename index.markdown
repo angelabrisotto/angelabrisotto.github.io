@@ -1,6 +1,6 @@
 ANGELA BRISOTTO
 
-_writer, translator, and actress_ \
+_writer, translator, and actress_ 
 
 
 **ABOUT ME** | **CHI SONO**
