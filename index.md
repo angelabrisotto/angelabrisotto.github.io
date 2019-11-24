@@ -33,6 +33,8 @@ My name is Angela Brisotto and I am a writer, translator, and actress from and b
 
 **DROP ME A LINE**
 
-Please feel free to contact me if you want more information about my work.  \
-angela.brisotto@gmail.com 
+Please feel free to contact me if you want more information about my work.  
+
+
+**<code>📮 </code></strong>angela.brisotto@gmail.com
 
