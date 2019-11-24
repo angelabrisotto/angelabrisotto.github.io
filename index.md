@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-# ANGELA BRISOTTO
+
 
 
 ## _writer, translator, and actress_ 
@@ -27,12 +27,3 @@ Il mio nome è Angela Brisotto e nella vita scrivo, traduco e recito su un palco
 [http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
 
 
-
-**DROP ME A LINE** | **PER CONTATTARMI**
-
-Please feel free to contact me if you want more information about my work.  
-angela.brisotto@gmail.com 
-
-Scrivetemi per avere maggiori informazioni sul mio lavoro.
-
-<code>📮 </code>angela.brisotto@gmail.com
