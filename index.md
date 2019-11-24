@@ -36,5 +36,5 @@ My name is Angela Brisotto and I am a writer, translator, and actress from and b
 Please feel free to contact me if you want more information about my work.  
 
 
-**<code>📮 </code></strong>angela.brisotto@gmail.com
+<code>📮 </code>angela.brisotto@gmail.com
 
