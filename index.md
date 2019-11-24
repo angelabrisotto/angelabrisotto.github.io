@@ -26,4 +26,4 @@ Il mio nome è Angela Brisotto e nella vita scrivo, traduco e recito su un palco
 *   _21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis_, Università Ca’ Foscari Venezia, 2018.    
 [http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
 
-
+![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/69497386-a14d1980-0edc-11ea-8613-d03d7531ebd2.jpg)
