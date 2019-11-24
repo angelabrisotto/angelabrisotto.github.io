@@ -20,4 +20,4 @@ angela.brisotto@gmail.com
 
 Scrivetemi per avere maggiori informazioni sul mio lavoro.
 
-**<code>📮 </code></strong>angela.brisotto@gmail.com
+<code>📮 </code>angela.brisotto@gmail.com
