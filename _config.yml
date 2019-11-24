@@ -6,18 +6,13 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 
 
-Please feel free to contact me if you want more information about my work.  
-
-Scrivetemi per avere maggiori informazioni sul mio lavoro.
-
-<code>📮 </code>angela.brisotto@gmail.com
 
 
 
 
 
 
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
