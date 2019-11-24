@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-# ANGELA BRISOTTO
-
-
-## _writer, translator, and actress_ \
 
 
 **ABOUT ME** | **CHI SONO**
@@ -19,7 +15,7 @@ Il mio nome è Angela Brisotto e nella vita scrivo, traduco e recito su un palco
 
 **DROP ME A LINE** | **PER CONTATTARMI**
 
-Please feel free to contact me if you want more information about my work.  \
+Please feel free to contact me if you want more information about my work.  
 angela.brisotto@gmail.com 
 
 Scrivetemi per avere maggiori informazioni sul mio lavoro.
