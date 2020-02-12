@@ -17,8 +17,10 @@ layout: home
 *****
 
 ## **PUBLICATIONS** 
+*****
 
 ## **<em>PUBBLICAZIONI</em>** 
+*****
 
 *   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
@@ -26,5 +28,5 @@ layout: home
 [http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
 
 
-
+*****
 
