@@ -1,7 +1,6 @@
 ---
 layout: footer
 ---
+I am a writer thriving in the field of culture and the arts and writing in Italian and English and this is the platform where I gather my publications.
 
-I am a writer thriving in the field of culture and the arts and writing in Italian and English. My interests particularly reside in theater, literature, and the exploration of boundaries between the written, visual, and performative dimensions of the arts.
-
-<em>Amo scrivere articoli riguardanti l’ambito della cultura e delle arti sia in italiano che in inglese. I miei interessi comprendono il teatro, la letteratura e l’esplorazione dei confini tra la dimensione scritta, visiva e performativa delle arti.</em>  
+<em>Amo scrivere articoli nell’ambito della cultura e delle arti in italiano e in inglese e questo è lo spazio online dove raccolgo le mie pubblicazioni.</em> 
