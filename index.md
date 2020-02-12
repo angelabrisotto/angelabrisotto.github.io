@@ -25,7 +25,7 @@ My name is Angela Brisotto and I am a writer, translator, and actress from and b
 **PUBLICATIONS** 
 
 
-*   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. \
+*   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
 *   _21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis_, Università Ca’ Foscari Venezia, 2018.    
 [http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
