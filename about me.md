@@ -4,7 +4,8 @@ title: ABOUT ME
 permalink: /about/
 ---
 
-![](https://unsplash.com/photos/bGdiuIyN3Rs)
+![](https://images.unsplash.com/photo-1485498128961-422168ba5f87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1402&q=80)
+
 
 
 # Writing to support the arts and the love for culture, a letter at a time.
