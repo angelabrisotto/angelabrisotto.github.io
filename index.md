@@ -10,7 +10,6 @@ layout: home
 *****
 
 ## **PUBLICATIONS** 
-*****
 
 ### **<em>PUBBLICAZIONI</em>** 
 
