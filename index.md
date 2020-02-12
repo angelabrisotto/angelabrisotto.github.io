@@ -9,21 +9,26 @@ layout: home
 ---
 
 
-
-
-
 ![ahmad-odeh-TK_WT3dl2tw-unsplash](https://user-images.githubusercontent.com/57620839/69497364-56cb9d00-0edc-11ea-89be-f189050132eb.jpg)
 
-## _writer, translator, and actress_ 
+## Writing to support the arts and the love for culture, a letter at a time.
 
-
-**ABOUT ME**
-
-My name is Angela Brisotto and I am a writer, translator, and actress from and based in Italy. I spent the last few years studying foreign languages while I was also trained in the analysis of literary texts with a special focus on theater. Inspired by my work for the _Brooklyn Rail_, a New York-based journal on art and culture, I set out to interview people working in the arts. My creative research interests reside in theater, literature, and the exploration of boundaries between the written, visual, and performative dimensions of the arts. I am a contributor to _The Brooklyn Rail_.
-
+I am a writer thriving in the field of culture and the arts and writing in Italian and English and this is the platform where I gather my publications.
 
 **PUBLICATIONS** 
 
+*   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
+[https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
+*   _21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis_, Università Ca’ Foscari Venezia, 2018.    
+[http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
+
+*****
+
+## <em>Scrivo per sostenere le arti e l’amore per la cultura, una lettera alla volta.</em>
+
+<em>Amo scrivere articoli nell’ambito della cultura e delle arti in italiano e in inglese e questo è lo spazio online dove raccolgo le mie pubblicazioni.</em>
+
+**<em>PUBBLICAZIONI</em>** 
 
 *   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
@@ -31,11 +36,4 @@ My name is Angela Brisotto and I am a writer, translator, and actress from and b
 [http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
 
 
-
-**DROP ME A LINE**
-
-Please feel free to contact me if you want more information about my work.  
-
-
-<code>📮 </code>angela.brisotto@gmail.com
 
