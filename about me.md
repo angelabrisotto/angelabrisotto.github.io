@@ -4,7 +4,7 @@ title: ABOUT ME
 permalink: /about/
 ---
 
-![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/69497386-a14d1980-0edc-11ea-8613-d03d7531ebd2.jpg)
+![](https://unsplash.com/photos/bGdiuIyN3Rs)
 
 
 # Writing to support the arts and the love for culture, a letter at a time.
