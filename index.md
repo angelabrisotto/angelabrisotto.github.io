@@ -8,18 +8,20 @@
 layout: home
 ---
 
-## writes to support the arts and the love for culture
-
-## <em>scrive per sostenere le arti e l’amore per la cultura</em>
-
-![ahmad-odeh-TK_WT3dl2tw-unsplash](https://user-images.githubusercontent.com/57620839/69497364-56cb9d00-0edc-11ea-89be-f189050132eb.jpg)
-
 *****
 
 ## **PUBLICATIONS** 
 *****
 
-## **<em>PUBBLICAZIONI</em>** 
+### **<em>PUBBLICAZIONI</em>** 
+
+*****
+
+![ahmad-odeh-TK_WT3dl2tw-unsplash](https://user-images.githubusercontent.com/57620839/69497364-56cb9d00-0edc-11ea-89be-f189050132eb.jpg)
+
+## Writing to support the arts and the love for culture
+
+### <em>Scrivo per sostenere le arti e l’amore per la cultura</em>
 *****
 
 *   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
