@@ -11,7 +11,7 @@ layout: home
 
 ![ahmad-odeh-TK_WT3dl2tw-unsplash](https://user-images.githubusercontent.com/57620839/69497364-56cb9d00-0edc-11ea-89be-f189050132eb.jpg)
 
-## Writing to support the arts and the love for culture, a letter at a time.
+# Writing to support the arts and the love for culture, a letter at a time.
 
 I am a writer thriving in the field of culture and the arts and writing in Italian and English and this is the platform where I gather my publications.
 
@@ -24,7 +24,7 @@ I am a writer thriving in the field of culture and the arts and writing in Itali
 
 *****
 
-## <em>Scrivo per sostenere le arti e l’amore per la cultura, una lettera alla volta.</em>
+# <em>Scrivo per sostenere le arti e l’amore per la cultura, una lettera alla volta.</em>
 
 <em>Amo scrivere articoli nell’ambito della cultura e delle arti in italiano e in inglese e questo è lo spazio online dove raccolgo le mie pubblicazioni.</em>
 
