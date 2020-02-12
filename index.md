@@ -15,7 +15,7 @@ layout: home
 
 I am a writer thriving in the field of culture and the arts and writing in Italian and English and this is the platform where I gather my publications.
 
-**PUBLICATIONS** 
+## **PUBLICATIONS** 
 
 *   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
@@ -28,7 +28,7 @@ I am a writer thriving in the field of culture and the arts and writing in Itali
 
 <em>Amo scrivere articoli nell’ambito della cultura e delle arti in italiano e in inglese e questo è lo spazio online dove raccolgo le mie pubblicazioni.</em>
 
-**<em>PUBBLICAZIONI</em>** 
+## **<em>PUBBLICAZIONI</em>** 
 
 *   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
