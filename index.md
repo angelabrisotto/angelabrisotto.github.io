@@ -22,6 +22,11 @@ layout: home
 ### <em>Scrivo per sostenere le arti e l’amore per la cultura</em>
 *****
 
+*   MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020. \
+[https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri)
+
+*****
+
 *   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
 
