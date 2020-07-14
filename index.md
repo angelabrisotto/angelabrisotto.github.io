@@ -22,17 +22,17 @@ layout: home
 ### <em>Scrivo per sostenere le arti e l’amore per la cultura</em>
 *****
 
-*   MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020. 
+*   MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020.  
 [https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri)
 
 *****
 
-*   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019. 
+*   BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019.  
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
 
 *****
 
-*   _21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis_, Università Ca’ Foscari Venezia, 2018.    
+*   _21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis_, Università Ca’ Foscari Venezia, 2018.  
 [http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
 
 *****
@@ -44,10 +44,10 @@ layout: home
 ### **<em>COLLABORAZIONI</em>**
 
 *   <em>The Brooklyn Rail</em>, 
-Journal on arts, politics, and culture - Rivista di arte, politica e cultura \
+Journal on arts, politics, and culture - Rivista di arte, politica e cultura  
 [https://brooklynrail.org/](https://brooklynrail.org/)
 
 *   Maddalena Granziera, 
-Artist - Artista \
+Artist - Artista  
 [https://maddalenagranziera.wixsite.com/maddalenag](https://maddalenagranziera.wixsite.com/maddalenag)
 
