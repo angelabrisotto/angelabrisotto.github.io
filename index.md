@@ -43,5 +43,6 @@ layout: home
 
 ### **<em>COLLABORAZIONI</em>**
 
-*   <em>The Brooklyn Rail</em>, Journal on arts, politics, and culture | Rivista di arte, politica e cultura - [https://brooklynrail.org/](https://brooklynrail.org/)
+*   <em>The Brooklyn Rail</em>, 
+Journal on arts, politics, and culture - Rivista di arte, politica e cultura - [https://brooklynrail.org/](https://brooklynrail.org/)
 
