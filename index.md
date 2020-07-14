@@ -19,7 +19,7 @@ layout: home
 
 ## Writing to support the arts and the love for culture
 
-### <em>Scrivo per sostenere le arti e l’amore per la cultura</em>
+### *Scrivo per sostenere le arti e l’amore per la cultura*
 *****  
 
 *   **MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**, _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020.  
@@ -27,7 +27,7 @@ layout: home
 
 *****  
 
-*   **BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019.**  
+*   **BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019.  
 [https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
 
 *****  
@@ -41,9 +41,9 @@ layout: home
 
 ## **COLLABORATIONS** 
 
-### **<em>COLLABORAZIONI</em>**
+### ***COLLABORAZIONI***
 
-> <em>The Brooklyn Rail</em>, 
+> *The Brooklyn Rail*, 
 > Journal on arts, politics, and culture - Rivista di arte, politica e cultura  
 > [https://brooklynrail.org/](https://brooklynrail.org/)
 
