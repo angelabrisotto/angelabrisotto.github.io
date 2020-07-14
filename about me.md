@@ -18,7 +18,7 @@ My name is Angela Brisotto, I am a writer thriving in the field of culture and t
 
 Please feel free to contact me if you want more information about my work.
 
-<code>📮 </code>angela.brisotto@gmail.com
+<code>📮 </code> <angela.brisotto@gmail.com>
 
 *****
   
@@ -32,7 +32,7 @@ Please feel free to contact me if you want more information about my work.
 
 _Scrivetemi per avere maggiori informazioni sul mio lavoro._
 
-<code>📮 </code>angela.brisotto@gmail.com
+<code>📮 </code> <angela.brisotto@gmail.com>
 
 
 
