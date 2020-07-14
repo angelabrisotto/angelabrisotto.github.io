@@ -47,3 +47,7 @@ layout: home
 Journal on arts, politics, and culture - Rivista di arte, politica e cultura
 [https://brooklynrail.org/](https://brooklynrail.org/)
 
+*   Maddalena Granziera, 
+Artist - Artista
+[https://maddalenagranziera.wixsite.com/maddalenag](https://maddalenagranziera.wixsite.com/maddalenag)
+
