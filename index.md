@@ -30,7 +30,8 @@ layout: home
 
 [**BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri), _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019.  
 
-   > "It makes such a contrast to leave the comfort of the warm sun to explore the grotto-like space where De Vivi, a Venetian artist, colorfully layers mythology, ancient iconography, and contemporary imagery within her paintings."
+   > "It makes such a contrast to leave the comfort of the warm sun to explore the grotto-like space where De Vivi, a Venetian artist, colorfully layers mythology, ancient iconography, and contemporary imagery within her paintings."  
+
 *****  
 
 [***21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis***](http://hdl.handle.net/10579/14011), Università Ca’ Foscari Venezia, 2018.  
