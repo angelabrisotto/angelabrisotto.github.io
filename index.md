@@ -9,9 +9,9 @@ layout: home
 ---
 *****
 
-# **PUBLICATIONS** 
+# **Publications** 
 
-## **<em>PUBBLICAZIONI</em>** 
+## **<em>Pubblicazioni</em>** 
 
 
 
@@ -22,26 +22,24 @@ layout: home
 ### *Scrivo per sostenere le arti e l’amore per la cultura*
 *****  
 
-*   **MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**, _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020.  
-[brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri)
+[**MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri), _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020.
 
 *****  
 
-*   **BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019.  
-[brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
+[**BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri), _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019.  
+
 
 *****  
 
-*   ***21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis***, Università Ca’ Foscari Venezia, 2018.  
-[hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
+[***21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis***](http://hdl.handle.net/10579/14011), Università Ca’ Foscari Venezia, 2018.  
 
 *****  
 
 ![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/87149807-34429480-c2b1-11ea-9391-1d5e80c2b635.jpg)
 
-## **COLLABORATIONS** 
+## **Collaborations** 
 
-### ***COLLABORAZIONI***
+### ***Collaborazioni***
 
 > *The Brooklyn Rail*,  
 > Journal on arts, politics, and culture - Rivista di arte, politica e cultura  
