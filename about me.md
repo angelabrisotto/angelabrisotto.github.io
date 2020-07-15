@@ -22,13 +22,13 @@ Please feel free to contact me if you want more information about my work.
 
 *****
   
-## <em>Scrivo per sostenere le arti e l’amore per la cultura, una lettera alla volta.</em> 
+## *Scrivo per sostenere le arti e l’amore per la cultura, una lettera alla volta.* 
 
-#### **<em>CHI SONO</em>**
+#### *CHI SONO*
 
-<em>Il mio nome è Angela Brisotto, amo scrivere articoli nell’ambito della cultura e delle arti e questo è lo spazio online dove raccolgo le mie pubblicazioni. Sono italiana, vivo in Italia e scrivo in italiano e inglese, spesso traducendo da una lingua all’altra. Accanto allo studio della letteratura e delle lingue straniere, la passione di una vita per il teatro e la recitazione hanno fortemente influenzato la mia attività di scrittura creativa e il mio punto di vista sul mondo dell’arte. Ciò che accende la mia curiosità è appunto l’esplorare come gli esseri umani trovino i modi più disparati per far emergere creativamente le proprie idee e il proprio mondo interiore attraverso l’arte. I miei interessi di ricerca creativa comprendono il teatro, la letteratura e l’esplorazione dei confini tra la dimensione scritta, visiva e performativa delle arti. Di recente ho iniziato a pubblicare interviste a persone che lavorano nel mondo delle arti e collaboro con </em>The Brooklyn Rail<em>, una rivista di arte e cultura con sede a New York.</em>   
+*Il mio nome è Angela Brisotto, amo scrivere articoli nell’ambito della cultura e delle arti e questo è lo spazio online dove raccolgo le mie pubblicazioni. Sono italiana, vivo in Italia e scrivo in italiano e inglese, spesso traducendo da una lingua all’altra. Accanto allo studio della letteratura e delle lingue straniere, la passione di una vita per il teatro e la recitazione hanno fortemente influenzato la mia attività di scrittura creativa e il mio punto di vista sul mondo dell’arte. Ciò che accende la mia curiosità è appunto l’esplorare come gli esseri umani trovino i modi più disparati per far emergere creativamente le proprie idee e il proprio mondo interiore attraverso l’arte. I miei interessi di ricerca creativa comprendono il teatro, la letteratura e l’esplorazione dei confini tra la dimensione scritta, visiva e performativa delle arti. Di recente ho iniziato a pubblicare interviste a persone che lavorano nel mondo delle arti e collaboro con </em>The Brooklyn Rail<em>, una rivista di arte e cultura con sede a New York.*   
 
-**<em>PER CONTATTARMI</em>**
+***PER CONTATTARMI***
 
 _Scrivetemi per avere maggiori informazioni sul mio lavoro._
 
