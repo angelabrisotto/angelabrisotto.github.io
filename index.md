@@ -46,15 +46,12 @@ layout: home
 
 ### ***Collaborazioni***
 
-*The Brooklyn Rail*,  
-Journal on arts, politics, and culture - Rivista di arte, politica e cultura  
-[brooklynrail.org](https://brooklynrail.org/)  
+[*The Brooklyn Rail*](https://brooklynrail.org/),  
+Journal on arts, politics, and culture - Rivista di arte, politica e cultura   
 
-Maddalena Granziera,  
+[Maddalena Granziera](https://maddalenagranziera.wixsite.com/maddalenag),  
 Artist - Artista  
-[maddalenagranziera.wixsite.com/maddalenag](https://maddalenagranziera.wixsite.com/maddalenag)  
 
-Barbara De Vivi,   
+[Barbara De Vivi](https://www.barbaradevivi.com),   
 Artist - Artista  
-[barbaradevivi.com](https://www.barbaradevivi.com)  
 
