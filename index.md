@@ -23,17 +23,17 @@ layout: home
 *****  
 
 *   **MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**, _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020.  
-[https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri)
+[brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri)
 
 *****  
 
 *   **BARBARA DE VIVI with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**, _The Brooklyn Rail_, Dec 19-Jan 20 Issue, 2019.  
-[https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
+[brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri](https://brooklynrail.org/2019/12/art/BARBARA-DE-VIVI-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-Olga-Lepri)
 
 *****  
 
 *   ***21st Century Liquid Hubris on Stage: a theatrical response to the 2008 financial crisis***, Università Ca’ Foscari Venezia, 2018.  
-[http://hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
+[hdl.handle.net/10579/14011](http://hdl.handle.net/10579/14011)
 
 *****  
 
@@ -43,11 +43,15 @@ layout: home
 
 ### ***COLLABORAZIONI***
 
-> *The Brooklyn Rail*, 
+> *The Brooklyn Rail*,  
 > Journal on arts, politics, and culture - Rivista di arte, politica e cultura  
-> [https://brooklynrail.org/](https://brooklynrail.org/)
+> [brooklynrail.org](https://brooklynrail.org/)
 
-> Maddalena Granziera, 
+> Maddalena Granziera,  
 > Artist - Artista  
-> [https://maddalenagranziera.wixsite.com/maddalenag](https://maddalenagranziera.wixsite.com/maddalenag)
+> [maddalenagranziera.wixsite.com/maddalenag](https://maddalenagranziera.wixsite.com/maddalenag)
+
+> Barbara De Vivi,   
+> Artist - Artista  
+> [barbaradevivi.com](https://www.barbaradevivi.com)
 
