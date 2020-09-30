@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-![](https://images.unsplash.com/photo-1485498128961-422168ba5f87?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1402&q=80)
+![publications pubblicazioni (1)](https://user-images.githubusercontent.com/57620839/94663931-8b815f80-030a-11eb-882d-9a3b1bf6443b.png)
 
 
 
