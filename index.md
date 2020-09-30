@@ -15,7 +15,8 @@ layout: home
 
 
 
-![ahmad-odeh-TK_WT3dl2tw-unsplash](https://user-images.githubusercontent.com/57620839/69497364-56cb9d00-0edc-11ea-89be-f189050132eb.jpg)
+![Monochromatic New York City Lifestyle Quote Facebook Cover](https://user-images.githubusercontent.com/57620839/94658819-9f759300-0303-11eb-94a2-7b0a591cbb1d.png)
+
 
 ## Writing to support the arts and the love for culture
 
