@@ -15,7 +15,7 @@ layout: home
 
 
 
-![ahmad-odeh-TK_WT3dl2tw-unsplash](https://user-images.githubusercontent.com/57620839/94659534-bb2d6900-0304-11eb-8673-4e7f30dce37a.jpg)
+![publications pubblicazioni](https://user-images.githubusercontent.com/57620839/94663516-0ac26380-030a-11eb-821e-f877ddac71a2.png)
 
 
 
