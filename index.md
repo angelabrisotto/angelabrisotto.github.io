@@ -42,7 +42,7 @@ layout: home
 
       
   
-![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/87149807-34429480-c2b1-11ea-9391-1d5e80c2b635.jpg)
+![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/94664646-6d682f00-030b-11eb-894f-56618c6e798c.jpg)
 
 ## **Collaborations** 
 
