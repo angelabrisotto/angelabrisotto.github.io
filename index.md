@@ -22,8 +22,11 @@ layout: home
 ## Writing to support the arts and the love for culture
 
 ### *Scrivo per sostenere le arti e l’amore per la cultura*
-      
-  
+ 
+ 
+**Writing **|** Scritti**  
+ 
+ 
 [**MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri), _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020.  
 
    > "Explorative hikes are creatively and spiritually meaningful to the Veneto region-based emergent artist, whose painting and photographic artwork is imbued with surreal geographic references echoing cosmic allusions, her imagination, and a planet Earth untouched by human presence."
