@@ -19,9 +19,9 @@ layout: home
 
 
 
-## Writing to support the arts and the love for culture
+## Writing and translating to support the arts and the love for culture
 
-### *Scrivo per sostenere le arti e l’amore per la cultura*
+### *Scrivo e traduco per sostenere le arti e l’amore per la cultura*
  
 ### **Writing - Scritti**
 
