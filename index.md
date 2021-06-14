@@ -15,8 +15,7 @@ layout: home
 
 
 
-![publications pubblicazioni](https://user-images.githubusercontent.com/57620839/94663516-0ac26380-030a-11eb-821e-f877ddac71a2.png)
-
+![publications pubblicazioni](https://user-images.githubusercontent.com/57620839/121912898-3d45ac80-cd31-11eb-8c2d-2112a627e5bc.png)
 
 
 ## Writing and translating to support the arts and the love for culture
