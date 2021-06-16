@@ -21,6 +21,8 @@ layout: home
 ## Writing and translating to support the arts and the love for culture
 
 ### *Scrivo e traduco per sostenere le arti e l’amore per la cultura*
+
+<br>
  
 ### **Writing - Scritti**
 
@@ -43,7 +45,7 @@ layout: home
 
       
   
-
+<br>
 
 ## **Collaborations** 
 
