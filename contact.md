@@ -9,7 +9,8 @@ Please feel free to drop me a line if you want more information about my work.
 _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._  
 
 
-
+<div>
+        
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgeryypd" method="post">
 
         <fieldset id="fs-frm-inputs">  
@@ -30,7 +31,7 @@ _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._
         <input type="submit" value="Submit">  
 </form>  
 
-
+</div>
 
  
  
