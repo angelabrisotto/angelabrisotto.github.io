@@ -9,7 +9,6 @@ Please feel free to drop me a line if you want more information about my work.
 _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._  
 
 
-<div>
         
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgeryypd" method="post">
 
@@ -31,8 +30,9 @@ _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._
         <input type="submit" value="Submit">  
 </form>  
 
-</div>
 
+Full Name - Nome e cognome Email Address - Indirizzo mail Message -
+Messaggio
  
  
 ![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/94664646-6d682f00-030b-11eb-894f-56618c6e798c.jpg)
