@@ -9,7 +9,7 @@ Please feel free to contact me if you want more information about my work.
 _Scrivetemi per avere maggiori informazioni sul mio lavoro._
 
 <div id="contact">
-        <h2>Drop me a line - <i>Per contattarmi</i></h2>
+        <h4>Drop me a line - <i>Per contattarmi</i></h4>
         <div id="contact-form">
                 <form action="https://formspree.io/f/xgeryypd" method="POST">
                 <input type="hidden" name="_subject" value="Contact request from personal website" />
