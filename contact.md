@@ -19,13 +19,13 @@ _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._
                 <input type="text" name="name" id="full-name" placeholder="First and Last" required="">  
                 <br>
                 <br>
-                <label for="email-address">Email Address - Indirizzo mail</label>  
+                <label for="email-address"><b>Email Address</b> - Indirizzo mail</label>  
                 <br>
                 <br>
                 <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">  
                 <br>
                 <br>
-                <label for="message">Message - Messaggio</label>  
+                <label for="message"><b>Message</b> - Messaggio</label>  
                 <br>
                 <br>
                 <textarea rows="5" name="message" id="message" placeholder="Drop me a line. - Scrivimi due righe." required=""></textarea>   
