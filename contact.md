@@ -14,25 +14,25 @@ _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._
 
         <fieldset id="fs-frm-inputs">  
                 <label for="full-name">Full Name - Nome e cognome</label>  
-                
+                <br>
                 <input type="text" name="name" id="full-name" placeholder="First and Last" required="">  
-                
+                <br>
                 <label for="email-address">Email Address - Indirizzo mail</label>  
-                
+                <br>
                 <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">  
-                
+                <br>
                 <label for="message">Message - Messaggio</label>  
-                
+                <br>
                 <textarea rows="5" name="message" id="message" placeholder="Drop me a line. - Scrivimi due righe." required=""></textarea>   
-                
+                <br>
                 <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">  
         </fieldset>   
         <input type="submit" value="Submit">  
 </form>  
 
+<br>
 
-Full Name - Nome e cognome Email Address - Indirizzo mail Message -
-Messaggio
+
  
  
 ![kelly-sikkema-bj3l739cwc8-unsplash](https://user-images.githubusercontent.com/57620839/94664646-6d682f00-030b-11eb-894f-56618c6e798c.jpg)
