@@ -13,7 +13,7 @@ _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xgeryypd" method="post">
 
         <fieldset id="fs-frm-inputs">  
-                <label for="full-name">Full Name - Nome e cognome</label>  
+                <label for="full-name"><b>Full Name</b> - Nome e cognome</label>  
                 <br>
                 <br>
                 <input type="text" name="name" id="full-name" placeholder="First and Last" required="">  
@@ -33,7 +33,6 @@ _Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._
                 <br>
                 <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">  
         </fieldset>   
-        <br>
         <br>
         <input type="submit" value="Submit">  
 </form>  
