@@ -9,9 +9,7 @@ layout: home
 ---
 
 
-# **Publications** 
-
-## **<em>Pubblicazioni</em>** 
+# **Publications** **.** ***Pubblicazioni*** 
 
 
 
@@ -24,8 +22,7 @@ layout: home
 
 <br>
  
-## **Writing**
-### ***Scritti***
+## **Writing** **.** ***Scritti***
 
  
 [**MADDALENA GRANZIERA with Angela Brisotto, Victoria Stephanie Uzumyemezoglu, Sara Antoniolli, and Olga Lepri**](https://brooklynrail.org/2020/07/art/MADDALENA-GRANZIERA-with-Angela-Brisotto-Victoria-Stephanie-Uzumyemezoglu-Sara-Antoniolli-and-Olga-Lepri), _The Brooklyn Rail_, Jul-Aug 20 Issue, 2020.  
@@ -50,9 +47,7 @@ layout: home
   
 <br>
 
-## **Collaborations** 
-
-### ***Collaborazioni***
+## **Collaborations** **.** ***Collaborazioni***
 
 [*The Brooklyn Rail*](https://brooklynrail.org/),  
 Journal on arts, politics, and culture - Rivista di arte, politica e cultura   
