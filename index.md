@@ -11,10 +11,11 @@ layout: home
 
 # **Publications** **.** ***Pubblicazioni*** 
 
-
+<br>
 
 ![publications pubblicazioni](https://user-images.githubusercontent.com/57620839/121912898-3d45ac80-cd31-11eb-8c2d-2112a627e5bc.png)
 
+<br>
 
 ## Writing and translating to support the arts and the love for culture
 
