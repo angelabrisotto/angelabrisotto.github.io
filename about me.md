@@ -3,10 +3,11 @@ layout: page
 title: About me
 permalink: /about/
 ---
+<br>
 
 ![publications pubblicazioni (1)](https://user-images.githubusercontent.com/57620839/94663931-8b815f80-030a-11eb-882d-9a3b1bf6443b.png)
 
-
+<br>
 
 ### Writing and translating to support the arts and the love for culture, a letter at a time.
 
