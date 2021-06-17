@@ -51,11 +51,11 @@ layout: home
 ## **Collaborations** **.** ***Collaborazioni***
 
 [*The Brooklyn Rail*](https://brooklynrail.org/),  
-Journal on arts, politics, and culture - Rivista di arte, politica e cultura   
+Journal on arts, politics, and culture . Rivista di arte, politica e cultura   
 
 [Maddalena Granziera](https://maddalenagranziera.wixsite.com/maddalenag),  
-Artist - Artista  
+Artist . Artista  
 
 [Barbara De Vivi](https://www.barbaradevivi.com),   
-Artist - Artista  
+Artist . Artista  
 
