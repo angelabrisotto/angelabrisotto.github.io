@@ -44,7 +44,9 @@ layout: home
    
    > "The economic crisis of 2007 and 2008 was a globally shocking experience. This year – 2018 – marks a ten-year timespan since the financial collapse. Even though quite a long time has passed, puzzlement and confusion are still the feelings that many individuals share when trying to understand the crisis-related events."
 
-      
+<br>
+
+*****
   
 <br>
 
