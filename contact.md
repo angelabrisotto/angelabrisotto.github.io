@@ -16,19 +16,19 @@ _Sentitevi liberi di scrivermi per richiedere una traduzione o per avere maggior
                 <label for="full-name"><b>Full Name</b> . Nome e cognome</label>  
                 <br>
                 <br>
-                <input type="text" name="name" id="full-name" placeholder="First and Last" required="">  
+                <input type="text" name="name" id="full-name" placeholder="" required="">  
                 <br>
                 <br>
                 <label for="email-address"><b>Email Address</b> . Indirizzo mail</label>  
                 <br>
                 <br>
-                <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">  
+                <input type="email" name="_replyto" id="email-address" placeholder="" required="">  
                 <br>
                 <br>
                 <label for="message"><b>Message</b> . Messaggio</label>  
                 <br>
                 <br>
-                <textarea rows="5" name="message" id="message" placeholder="Drop me a line. Scrivimi due righe." required=""></textarea>   
+                <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>   
                 <br>
                 <br>
                 <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">  
