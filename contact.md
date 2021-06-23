@@ -4,9 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
-Please feel free to drop me a line if you want more information about my work.
+Please feel free to contact me if you want to request a translation or know more about my work.
 
-_Sentitevi liberi di scrivermi per avere maggiori informazioni sul mio lavoro._  
+_Sentitevi liberi di scrivermi per richiedere una traduzione o per avere maggiori informazioni sul mio lavoro._  
 
 <br>
         
