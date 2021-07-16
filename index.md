@@ -48,6 +48,18 @@ layout: home
   
 <br>
 
+## **Translations** **.** ***Traduzioni***
+
+
+[**Giuseppe Penoone with Francesca Pietropaolo and Alexis Dahan**](https://brooklynrail.org/2021/07/art/Giuseppe-Penone-with-Francesca-Pietropaolo-and-Alexis-Dahan), _The Brooklyn Rail_, Jul-Aug 21 Issue, 2021. Translated from the Italian to English by Angela Brisotto.
+
+
+<br>
+
+*****
+  
+<br>
+
 ## **Collaborations** **.** ***Collaborazioni***
 
 [*The Brooklyn Rail*](https://brooklynrail.org/),  
